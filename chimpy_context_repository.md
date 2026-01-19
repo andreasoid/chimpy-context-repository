@@ -1,4 +1,4 @@
-# Company Context Repository Blueprint
+# Chimpy Context Repository
 
 ## Purpose
 This repository is the **single source of truth** for how the company thinks, decides, and acts.

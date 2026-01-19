@@ -19,7 +19,7 @@ This constitution is the **highest-level document** of the company.
 In case of conflict, precedence is:
 1. `constitution.md`
 2. `governance.md`
-3. `company_context_repository_blueprint.md`
+3. `chimpy_context_repository.md`
 4. All other documents
 
 No lower-level document may override this constitution.
@@ -67,7 +67,7 @@ No role may assume authority not granted in `governance.md`.
 
 ## Company Context
 
-The company maintains a written, versioned context repository as defined in `company_context_repository_blueprint.md`.
+The company maintains a written, versioned context repository as defined in `chimpy_context_repository.md`.
 
 Rules:
 - Written context is authoritative

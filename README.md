@@ -6,7 +6,7 @@ If something is not written here, it is **not a rule, not strategy, and not a co
 
 ## What's inside
 
-- `company_context_repository_blueprint.md`: Blueprint for what this repository contains and how it is maintained.
+- `chimpy_context_repository.md`: What this repository is, what it contains, and how it is maintained.
 - `constitution.md`: Highest-level identity and decision foundations.
 - `governance.md`: Decision rights and escalation rules.
 
